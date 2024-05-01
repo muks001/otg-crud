@@ -14,6 +14,7 @@ return [
     | Supported: "pusher", "ably", "redis", "log", "null"
     |
     */
+    // as
 
     'default' => env('BROADCAST_DRIVER', 'null'),
 
